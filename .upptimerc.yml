@@ -5,6 +5,9 @@ repo: healthcheck # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+sites:
+  - name: schindler-p
+    url: https://main.dm-cn-p.ioee10-cloud.cn/apps/cockpit/index.html#/
  # - name: Wikipedia
  #   url: https://en.wikipedia.org
  # - name: Hacker News
