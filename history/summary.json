@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
-    "slug": "google",
+    "name": "schindler-p",
+    "url": "https://main.dm-cn-p.ioee10-cloud.cn/apps/cockpit/index.html#/",
+    "icon": "https://favicons.githubusercontent.com/main.dm-cn-p.ioee10-cloud.cn",
+    "slug": "schindler-p",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 84,
-    "timeDay": 84,
-    "timeWeek": 84,
-    "timeMonth": 84,
-    "timeYear": 84,
+    "time": 1137,
+    "timeDay": 1137,
+    "timeWeek": 1137,
+    "timeMonth": 1137,
+    "timeYear": 1137,
     "dailyMinutesDown": {}
   }
 ]
