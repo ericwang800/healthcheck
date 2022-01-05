@@ -8,6 +8,9 @@ repo: healthcheck # The name of this repository
 sites:
   - name: schindler-p
     url: https://main.dm-cn-p.ioee10-cloud.cn/apps/cockpit/index.html#/
+    
+  - name: schindler-q
+    url：https://main.dm-cn-q.ioee10-cloud.cn/apps/devicemanagement/index.html
  # - name: Wikipedia
  #   url: https://en.wikipedia.org
  # - name: Hacker News
