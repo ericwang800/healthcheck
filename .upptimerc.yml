@@ -9,7 +9,7 @@ sites:
   - name: schindler-q
     url: https://main.dm-cn-q.ioee10-cloud.cn/apps/devicemanagement/index.html
   - name: Secret Site
-    url: $SECRET_SITE
+    url: $PRIVATE_SITE
 
 # Add downtime notifications
 # https://upptime.js.org/docs/notifications
