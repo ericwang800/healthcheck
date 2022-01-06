@@ -1,19 +1,13 @@
-owner: koj-co
-repo: upptime
+owner: ericwang800
+repo: healthcheck
 user-agent: KojBot
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: schindler_P
     url: https://main.dm-cn-p.ioee10-cloud.cn/apps/cockpit/index.html#/
   - name: schindler-q
     url: https://main.dm-cn-q.ioee10-cloud.cn/apps/devicemanagement/index.html
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
   - name: Secret Site
     url: $SECRET_SITE
 
@@ -28,10 +22,10 @@ assignees:
 # Configure your status website
 # http://localhost:3000/docs/configuration#status-website
 status-website:
-  cname: demo.upptime.js.org
+  #cname: demo.upptime.js.org
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: upptime
-  #baseUrl: /healthcheck
+  baseUrl: /healthcheck
   introTitle: "**upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
